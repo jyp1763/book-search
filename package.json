@@ -1,8 +1,8 @@
 {
   "name": "googlebooks-app",
   "version": "1.0.0",
-  "engines":{
-    "node":"16.x",
+  "engines": {
+    "node": "16.x",
     "npm": "8.x"
   },
   "description": "",
@@ -18,5 +18,8 @@
   "license": "ISC",
   "devDependencies": {
     "concurrently": "^5.1.0"
+  },
+  "dependencies": {
+    "@apollo/react-hooks": "^4.0.0"
   }
 }
