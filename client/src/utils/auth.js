@@ -1,5 +1,5 @@
 
-const decode= require("jwt-decode");
+//const decode= require("jwt-decode");
 import decode from 'jwt-decode';
 
 
